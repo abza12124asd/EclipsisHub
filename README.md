@@ -1,5 +1,4 @@
-## V3
+## V3 SCRIPT:
 
-Script:
 getgenv().EclipsisHubKey = "YOUR_KEY"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/abza12124asd/EclipsisHub/main/Hub"))()

@@ -1,4 +1,4 @@
-## V3 SCRIPT:
+## SCRIPT:
 
 ```
 getgenv().EclipsisHubKey = "YOUR_KEY"

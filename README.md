@@ -3,7 +3,7 @@
 ```
 getgenv().EclipsisHubKey = "YOUR_KEY"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/abza12124asd/EclipsisHub/main/Hub"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/abza12124asd/EclipsisHub/main/Loader"))()
 ```
 ## Change-Logs:
 

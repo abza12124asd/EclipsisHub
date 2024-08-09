@@ -1,5 +1,3 @@
-getgenv().EclipsisHubKey = "YourKey"
-
 local gh = "https://raw.githubusercontent.com/abza12124asd/EclipsisHub/main/games/"
 
 if game.PlaceId == 632574862 then
